@@ -1,0 +1,1 @@
+For tests in Visual Studio Mobile Center
