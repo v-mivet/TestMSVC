@@ -19,4 +19,9 @@ public class ExampleUnitTest {
     public void subtraction_isCorrect() throws Exception {
         assertEquals(4, 8 - 2);
     }
+
+    @Test
+    public void square_isCorrect() throws Exception {
+        assertEquals(2^10, 1025);
+    }
 }
