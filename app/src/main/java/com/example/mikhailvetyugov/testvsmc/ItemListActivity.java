@@ -43,7 +43,7 @@ public class ItemListActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_item_list);
 
-        MobileCenter.start(getApplication(), "9c21cb1e-8198-49a8-a00b-7afb26b66fa9",
+        MobileCenter.start(getApplication(), "5ac4ed71-ff2d-41c9-809c-76c84b9cbbf2",
                 Analytics.class, Crashes.class, Distribute.class);
 
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
