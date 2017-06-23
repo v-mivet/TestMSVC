@@ -11,6 +11,3 @@
 ## Travis
 ![Build status](https://img.shields.io/travis/npm/npm/latest.svg)
 
-
-
-
