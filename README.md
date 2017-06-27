@@ -3,7 +3,6 @@
 ## Prod
 
 ![Build status](https://build.mobile.azure.com/v0.1/apps/bbc8a845-ef68-4bba-a000-794e4045b33f/branches/master/badge)
-![Build status](https://build.mobile.azure.com/v0.1/apps/338ca805-f9e7-4f46-9573-5b6292a631fe/branches/master/badge)
 ![Build status](https://build.mobile.azure.com/v0.1/apps/b1477c7d-2e6e-47eb-8b62-84b398bcbad8/branches/master/badge)
 
 ## Int
